@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "gps-tracking",
+			"path": "../gps-tracking"
+		}
+	],
+	"settings": {}
+}
